@@ -52,9 +52,9 @@
   background-color:#ccf2ff;
   padding: 20px;
   width: 100px;
-  height:300px;
+  height:250px;
   position: absolute; 
-  top: 300px;
+  top: 200px;
   left:20px;
   background-size: cover;
   font-size: 30px;
@@ -63,10 +63,10 @@
   border-radius: 5px;
   background-color:#ccf2ff;
   padding: 20px;
-  width: 500px;
-  height:300px;
+  width: 1170px;
+  height:250px;
   position: absolute; 
-  top: 300px;
+  top: 200px;
   left:140px;
   background-size: cover;
   font-family: Century Gothic;
@@ -74,7 +74,7 @@
 }
 .container217{
 position: absolute; 
-  top: 200px;
+  top: 400px;
   right:10px;
  }
 #m125
